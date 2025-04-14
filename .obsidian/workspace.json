@@ -1,0 +1,406 @@
+{
+  "main": {
+    "id": "b111f4de79eb38ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "95cf4108e848a9ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68e6e4f463f29bb6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "04de2b95eba82e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Draft/Graph Neural Network.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Graph Neural Network"
+            }
+          },
+          {
+            "id": "554e01054019a825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Index/Bioinformatics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Bioinformatics"
+            }
+          },
+          {
+            "id": "aa7c6153d64b0adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Draft/Explainable Graph Neural Network.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Explainable Graph Neural Network"
+            }
+          },
+          {
+            "id": "25a0a8e6140a728e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Draft/Explainable Neural Network.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Explainable Neural Network"
+            }
+          },
+          {
+            "id": "ae6cea2b06ce9e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Draft/Explainable Graph Neural Network.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Explainable Graph Neural Network"
+            }
+          },
+          {
+            "id": "9010afd66fd5be6d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "5-Media/stumpfe2010.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "stumpfe2010"
+            }
+          },
+          {
+            "id": "612032e9fb50f806",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Draft/Tp3 Logique.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tp3 Logique"
+            }
+          },
+          {
+            "id": "94b81058e2cd4928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Draft/lab1 OpenCl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "lab1 OpenCl"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "062d712125e538c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb3e25da7698c617",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5730b45b0a4b419",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f5a07541180e87aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "expla",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e3c6ccb0ab3dab3f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "db0da2be178529e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b57d676f284e8d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "780d6131ab9cb1ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Draft/TP1 stat.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TP1 stat"
+            }
+          },
+          {
+            "id": "666c688d69f5a036",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1-Draft/TP1 stat.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TP1 stat"
+            }
+          },
+          {
+            "id": "5de01633020c416a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4bac0f03ed58b5da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-Draft/TP1 stat.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TP1 stat"
+            }
+          },
+          {
+            "id": "9f1c48ab1467e6f4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "aa7c6153d64b0adf",
+  "lastOpenFiles": [
+    "1-Draft/PPP.md",
+    "1-Draft/Auto ML.md",
+    "1-Draft/Graph Attention Network.md",
+    "1-Draft/Explainable Graph Neural Network.md",
+    "4-Zettelkasten/DrugIT research.md",
+    "1-Draft/Explainable Neural Network.md",
+    "2-Index/Bioinformatics.md",
+    "1-Draft/lab1 OpenCl.md",
+    "4-Zettelkasten/Pasteur pitch.md",
+    "1-Draft/Tp3 Logique.md",
+    "1-Draft/Tp2 MongoDb.md",
+    "1-Draft/TP2 Logique.md",
+    "4-Zettelkasten/Template.md",
+    "4-Zettelkasten/Model Selection.md",
+    "1-Draft/Compte rendu 1.md",
+    "Pasted image 20250408102215.png",
+    "Pasted image 20250408102104.png",
+    "1-Draft/VCell Google Summer of Code.md",
+    "0-Daily/2025-03-26.md",
+    "0-Daily/Daily Template.md",
+    "Untitled",
+    "0-Daily",
+    "5-Media/stumpfe2010.pdf",
+    "5-Media/s12859-023-05497-5.pdf",
+    "5-Media/Pasted image 20240219145540.png",
+    "5-Media/Pandas_Cheat_Sheet.pdf",
+    "5-Media/mermaid-diagram-2024-07-04-215821.svg",
+    "5-Media/1688885174323.jpg",
+    "5-Media/651px-Relationship_between_mean_and_median_under_different_skewness 1.png",
+    "Pasted image 20250225134915.png",
+    "Untitled.canvas",
+    "Zaouali_Alaeddine_GL3_TP2.pdf",
+    "Zaouali_Alaeddine_GL3_TP1.pdf",
+    "2-Index/KAGGLE.md",
+    "1-Draft/Attention.md",
+    "1-Draft/PPP roadmap.md",
+    "1-Draft/Graph Neural Network.md",
+    "1-Draft/Computer Vision.md",
+    "1-Draft/أبو نواس.md",
+    "1-Draft/XGBoost.md",
+    "1-Draft/Visual Grounding.md",
+    "Pasted image 20241110232335.png",
+    "Pasted image 20241110231835.png",
+    "Pasted image 20241110231752.png",
+    "TP2 Stat.pdf",
+    "TP1 stat.pdf",
+    "Zaouali_Alaeddine-GL3-TP1.pdf",
+    "Untitled 1.canvas"
+  ]
+}

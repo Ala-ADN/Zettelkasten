@@ -1,0 +1,2 @@
+### Definition
+A random forest classifier is an [[Ensemble Learning]] method used for classification tasks that constructs multiple decision trees during training. It combines the predictions of these trees to improve accuracy and prevent overfitting. Each tree in the forest is built from a random subset of the training data and features, ensuring diversity among the trees. The final classification decision is made based on the majority vote of the individual trees
