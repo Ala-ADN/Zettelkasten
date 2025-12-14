@@ -1,4 +1,4 @@
-# [[CV Template]]
+# [[Computer Vision Template]]
 # Tips
 ### Start Small for Faster Iteration
 - Use smaller image resolutions to reduce training time and GPU memory usage, allowing larger batch sizes

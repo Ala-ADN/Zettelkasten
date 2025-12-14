@@ -38,7 +38,6 @@ import gc
 def seed_everything(seed=42):
     random.seed(seed)
     np.random.seed(seed)
-    tf.random.set_seed(seed)
     os.environ['PYTHONHASHSEED'] = str(seed)
 
 seed_everything()

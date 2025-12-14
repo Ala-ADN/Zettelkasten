@@ -1,4 +1,3 @@
-# Definition
 **Attention** determines the relative importance of each component in a sequence relative to the other components in that sequence, 
 $$
 Attention(Q, K, V) = \text{softmax}\left({QK^T}/{\sqrt{d}}\right)V.

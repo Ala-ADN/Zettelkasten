@@ -1,4 +1,3 @@
-### Definition
 RAG allows [[Language Model|LLMs]] to access external knowledge base and overcome their knowledge constraint
 1. split the document into chunks (chunk size, chunk overlap)
 2. embed the chunks

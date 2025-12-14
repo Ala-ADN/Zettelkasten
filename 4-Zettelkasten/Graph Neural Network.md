@@ -1,4 +1,3 @@
-# Definition
 a [[Convolutional Neural Network|CNN]] that takes a [[Graph]] as an input
 edges and nodes are associated with feature vectors
 # Propagation rule
