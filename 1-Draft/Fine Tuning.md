@@ -1,4 +1,4 @@
-? if you have no idea what value a hyperparameter should have, try consecutive powers of 10 
+> if you have no idea what value a hyperparameter should have, try consecutive powers of 10 
 ### Grid Search
 use cross-validation to evaluate all the possible combinations of hyperparameter values
 ```python

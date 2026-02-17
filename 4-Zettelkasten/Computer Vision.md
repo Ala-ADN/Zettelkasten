@@ -27,3 +27,4 @@
 - **Timm/TFimm**: Use optimized pre-trained models and training pipelines from the `timm` library (PyTorch) or `tfimm` (TensorFlow)
 ### Pseudo-Labeling
 - Add high-confidence predictions from your model to the training data (semi-supervised learning)
+### [[Visual Grounding]]

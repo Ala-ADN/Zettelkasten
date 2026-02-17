@@ -1,6 +1,6 @@
 ```python
 # General libraries
-import numpy as np
+import numpy as npe
 import pandas as pd
 import os
 import sys

@@ -1,0 +1,1 @@
+when LLMs receive a long input, they tend to focus on the information at both the beginning and end of the input sequence. At the same time, they neglect the content in the middle, thus failing to capitalize on the key information within the long input [Liu et al. (2024a)](https://arxiv.org/abs/2307.03172) 

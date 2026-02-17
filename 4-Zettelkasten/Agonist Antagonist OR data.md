@@ -28,7 +28,7 @@ After comprehensive analysis of the available olfactory receptor bioactivity dat
 
 **4. GPCRdb (2025 Release)**[9][10][11]
 - **Limited EC50 Data**: Contains **Δlog(Emax/EC50)** metrics for some olfactory receptors
-- **Integration**: Links to ChEMBL and other databases that may contain quantitative potency data
+- **Integration**: Links to [[ChEMBL dataset]] and other databases that may contain quantitative potency data
 - **Access**: Available through ligand bioactivity profiles section
 
 ### **Databases That Do NOT Contain IC50/EC50 Data**

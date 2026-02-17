@@ -12,6 +12,7 @@ def null_columns(df):
 ```
 # Missing data matrix
 ```python
+import missingno as msno
 msno.matrix(df, color=(0.0, 0.2, 0.4))
 plt.title('Missing Data Locations in Dataset', fontsize=26)
 plt.xlabel('Columns', fontsize=16)
